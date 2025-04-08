@@ -4,3 +4,4 @@ keras
 Pillow
 numpy
 huggingface_hub
+torch
