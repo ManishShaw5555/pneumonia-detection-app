@@ -1,7 +1,5 @@
 streamlit
-tensorflow
-keras
-Pillow
-numpy
-huggingface_hub
 torch
+torchvision
+huggingface_hub
+Pillow
